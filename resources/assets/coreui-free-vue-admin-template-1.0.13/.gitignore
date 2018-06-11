@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+node_modules/
+dist/
+test/unit/coverage
+test/e2e/reports
